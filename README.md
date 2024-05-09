@@ -22,3 +22,7 @@ Special thanks to the others that helped me get this off the ground and helping 
 | One Eyed Moody  | 101004 | Vendor | Alchemy Supplies-Reagents|
 | Ranske Bigbrew  | 101005 | Vendor | Bartender|
 | Grizzlebone | 101006 | Vendor | Food and Drink|
+| Jack Thornbush | 101007 | Vendor | Herbalism and Poison Supplies|
+| Willy Wonka | 101008 | Vendor | Sweet Treat Vendor|
+|||||
+|Guardian of The Beer| 101010| Enemy| Boss|
