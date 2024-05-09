@@ -17,7 +17,7 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Name             | ID     | Type            | Sub Type               |
 |------------------|--------|---------------------|--------------------|
 | Josie Fireforge  | 101001 | Vendor | Blacksmith Supplies|
-| Jenath | 101002 | Special | Auctioneer |
+| Jenath | 101002 | Town Folk | Auctioneer |
 | Ruby Rose  | 101003 | Vendor | Flower Vendor|
 | One Eyed Moody  | 101004 | Vendor | Alchemy Supplies-Reagents|
 | Ranske Bigbrew  | 101005 | Vendor | Bartender|
@@ -36,8 +36,8 @@ Special thanks to the others that helped me get this off the ground and helping 
 |||||
 |NULL|101014|NULL|NULL|
 |||||
-| John Boatman | 101015 | Special | Dock Master (Daily Fishing Quest) |
-| Bonneta | 101016 | Special | Stable Master |
+| John Boatman | 101015 | Town Folk | Dock Master (Daily Fishing Quest) |
+| Bonneta | 101016 | Town Folk | Stable Master |
 | Jack Claybourne | 101017 | Town Folk | Stable Hand |
 | Paul Bunyan | 101018 | Vendor | Woodworking Supplies |
 | Cory | 101019 | Town Folk | Lumberjack |
