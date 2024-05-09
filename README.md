@@ -12,8 +12,8 @@ Special thanks to NotCoffee418 and RStijin for the custom maps.
 
 ## Zone Information
 
-| Name             | ID    | Type   |
-|------------------|-------|--------|
-| Josie Fireforge   | 101001 | ![Blacksmith Supplies](https://placehold.co/15x15/f03c15/f03c15.png)   |
+| Name             | ID    | Type                                                                      |
+|------------------|-------|---------------------------------------------------------------------------|
+| Josie Fireforge  | 101001| ![Blacksmith Supplies](https://placehold.co/15x15/f03c15/f03c15.png) Blacksmith Supplies |
 | Example Zone 2   | 67890 | <span style="color:green;">Trainer</span> |
 | Example Zone 3   | 54321 | Rare   |
