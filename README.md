@@ -24,5 +24,5 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Grizzlebone | 101006 | Vendor | Food and Drink|
 | Jack Thornbush | 101007 | Vendor | Herbalism and Poison Supplies|
 | Willy Wonka | 101008 | Vendor | Sweet Treat Vendor|
-|||||
+|NULL|101009|||
 |Guardian of The Beer| 101010| Enemy| Boss|
