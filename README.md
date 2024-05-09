@@ -29,5 +29,11 @@ Special thanks to the others that helped me get this off the ground and helping 
 |||||
 |Guardian of The Beer| 101010| Enemy| Boss|
 |Skinderella| 101011| Vendor| Leatherworking and Skinning Supplies|
+|||||
 |NULL|101012|NULL|NULL|
-|Chops With Smile|101013|Vendor|Meat Vendor|
+|||||
+| Chops With Smile | 101013 | Vendor| Meat Vendor |
+|||||
+|NULL|101014|NULL|NULL|
+|||||
+| John Boatman | 101015 | Special | Dock Master (Daily Fishing Quest) |
