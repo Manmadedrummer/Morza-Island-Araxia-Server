@@ -42,4 +42,15 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Paul Bunyan | 101018 | Vendor | Woodworking Supplies |
 | Cory | 101019 | Town Folk | Lumberjack |
 | Fisherman Dan | 101020 | Vendor | Fisherman |
-| Morza Island Citizen Group 1 | 101021 | Town Folk | NPC Towns Folk |
+| Morza Island Citizen Group 1 | 101021 | Town Folk | Town Folk |
+| Morza Island Citizen Group 2 | 101022 | Town Folk | Town Folk |
+| Morza Battleguards | 101023 | Town Folk | Guards |
+| Morza Guards | 101024 | Town Folk | Guards |
+| Haris Pilton | 101025 | Vendor | Socialite |
+| Ricole Nichie | 101026 | Town Folk | Ex-Socialite |
+| Farmer Fred | 101027 | Town Folk | Quest Giver |
+| Chuck Stelrod | 101028 | Vendor | Mining Supplies |
+| Layla Swanwater | 101029 | Vendor | Enchanting Supplies |
+| Brizler | 101030 | Vendor | Engineering Supplies |
+
+
