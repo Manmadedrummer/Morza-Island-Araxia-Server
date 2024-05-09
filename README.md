@@ -1,6 +1,6 @@
 # Moraz-Island-Araxia-Server
 
-All the data for Moraz Island for the Araxia Server.
+All the data for Morza Island for the Araxia Server.
 
 Special thanks to NotCoffee418 and RStijin for the custom maps.
 - [NotCoffee418's Custom Maps](https://github.com/NotCoffee418/Custom-Maps): Custom Zones for World of Warcraft 3.3.5a by RStijn
@@ -10,7 +10,7 @@ Special thanks to the others that helped me get this off the ground and helping 
 
 ### Teleport Commands
 <small>Map ID for custom zones: 5000</small>
-- **Moraz Island**: `.go xyz -13950 2877 9 5000`
+- **Morza Island**: `.go xyz -13950 2877 9 5000`
 
 ## Zone Information
 
@@ -37,3 +37,9 @@ Special thanks to the others that helped me get this off the ground and helping 
 |NULL|101014|NULL|NULL|
 |||||
 | John Boatman | 101015 | Special | Dock Master (Daily Fishing Quest) |
+| Bonneta | 101016 | Special | Stable Master |
+| Jack Claybourne | 101017 | Town Folk | Stable Hand |
+| Paul Bunyan | 101018 | Vendor | Woodworking Supplies |
+| Cory | 101019 | Town Folk | Lumberjack |
+| Fisherman Dan | 101020 | Vendor | Fisherman |
+| Morza Island Citizen Group 1 | 101021 | Town Folk | NPC Towns Folk |
