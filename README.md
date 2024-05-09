@@ -15,6 +15,6 @@ Special thanks to NotCoffee418 and RStijin for the custom maps.
 | Name             | ID     | Type            | Sub Type               |
 |------------------|--------|---------------------|--------------------|
 | Josie Fireforge  | 101001 | Vendor | Blacksmith Supplies|
-| Jenath | 10002 | Special | Auctioneer |
+| Jenath | 101002 | Special | Auctioneer |
 | Ruby Rose  | 101003 | Vendor | Flower Vendor|
 | One Eyed Moody  | 101004 | Vendor | Alchemy Supplies-Reagents|
