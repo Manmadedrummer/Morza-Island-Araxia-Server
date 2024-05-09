@@ -16,4 +16,4 @@ Special thanks to NotCoffee418 and RStijin for the custom maps.
 |------------------|--------|---------------------|--------------------|
 | Josie Fireforge  | 101001 | Vendor | Blacksmith Supplies|
 | Jenath | 10002 | Special | Auctioneer |
-| Example Zone 3   | 54321 | Rare   |
+| Ruby Rose  | 101003 | Vendor | Flower Vendor|
