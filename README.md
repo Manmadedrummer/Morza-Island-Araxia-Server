@@ -9,4 +9,11 @@ Special thanks to NotCoffee418 and RStijin for the custom maps.
 ### Teleport Commands
 <small>Map ID for custom zones: 5000</small>
 - **Moraz Island**: `.go xyz -13950 2877 9 5000`
-- **Valley of Betrayal**: `.go xyz 10461 -9574 22 5000`
+
+## Zone Information
+
+| Name             | ID    | Type   |
+|------------------|-------|--------|
+| Josie Fireforge   | 101001 | <span style="color:blue;">Blacksmith Supplies</span>  |
+| Example Zone 2   | 67890 | Custom |
+| Example Zone 3   | 54321 | Rare   |
