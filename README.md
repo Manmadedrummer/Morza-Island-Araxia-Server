@@ -19,6 +19,7 @@ Special thanks to the others that helped me get this off the ground and helping 
 ## NPC Zone Information
 
 - A Sortable HTML Table of the NPC List can be found [Here](https://morza-island-npc-list.tiiny.site/)
+- Sotable Game Object List [Here](https://morza-island-game-object-list.tiiny.site/)
 
   
 | Name                  | ID       | Type       | Sub Type                  |
