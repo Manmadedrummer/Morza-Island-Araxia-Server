@@ -15,9 +15,9 @@ Special thanks to the others that helped me get this off the ground and helping 
 - **Morza Island**: `.go xyz -13950 2877 9 5000`
 - **Valley of Betrayal**: `.go xyz 10461 -9574 22 5000` (WIP)
 
-- A Sortable HTML Table of the NPC List can be found [Here](https://morza-island-npc-list.tiiny.site/)
-## Zone Information
 
+## NPC Zone Information
+- A Sortable HTML Table of the NPC List can be found [Here](https://morza-island-npc-list.tiiny.site/)
 | Name             | ID     | Type            | Sub Type               |
 |------------------|--------|---------------------|--------------------|
 | Corline Croissant | 101000 | Vendor | Bread Vendor |
