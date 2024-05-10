@@ -27,17 +27,8 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Grizzlebone | 101006 | Vendor | Food and Drink|
 | Jack Thornbush | 101007 | Vendor | Herbalism and Poison Supplies|
 | Willy Wonka | 101008 | Vendor | Sweet Treat Vendor|
-|||||
-|NULL|101009|NULL|NULL|
-|||||
 | Skinderella | 101011 | Vendor| Leatherworking and Skinning Supplies |
-|||||
-|NULL|101012|NULL|NULL|
-|||||
 | Chops With Smile | 101013 | Vendor| Meat Vendor |
-|||||
-|NULL|101014|NULL|NULL|
-|||||
 | John Boatman | 101015 | Town Folk | Dock Master (Daily Fishing Quest) |
 | Bonneta | 101016 | Town Folk | Stable Master |
 | Jack Claybourne | 101017 | Town Folk | Stable Hand |
@@ -64,12 +55,6 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Concert Goer Group 1 | 101038 | Concert | Crowd |
 | Concert Goer Group 1 | 101039 | Concert | Crowd |
 | Rob | 101040 | Town Folk | Lumberjack |
-|||||
-|NULL|101041|NULL|NULL|
-|||||
-|||||
-|NULL|101042|NULL|NULL|
-|||||
 | Hannah | 101043 | Critters | Dog |
 | Sully | 101044 | Critters | Dog |
 | Cooper | 101045 | Critters | Dog |
@@ -90,9 +75,6 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Malfunctioning Harvester | 101060 | Enemies | Mob |
 | Waterfall Beast | 101061 | Enemies | Boss |
 | Drunk Gordy | 101062 | Town Folk | Quest Giver |
-|||||
-|NULL|101063|NULL|NULL|
-|||||
 | Birdman | 101064 | Trainer | Alchemist Trainer |
 | Lewt Arshwong | 101065 | Trainer | Enchanter Trainer |
 | Zales | 101066 | Trainer | Jewelcrafting Trainer |
@@ -114,9 +96,6 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Tinkerbell | 101082 | Town Folk | Dog |
 | Master Lock | 101083 | Town Folk | Locksmith |
 | Dirt Mike Rowe | 101084 | Vendor | Fisherman |
-|||||
-|NULL|101085|NULL|NULL|
-|||||
 | Alfred Copperworth | 101086 | Vendor | Butler |
 | Garrek Shadowblade | 101087 | Trainer | Weapon Trainer |
 | Ehoetus | 101088 | Trainer | Armor Trainer |
@@ -130,9 +109,6 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Jay | 101096 | Town Folk | Quest Giver |
 | Silent BOB | 101097 | Town Folk | Concert Goer |
 | Moraz Lasher | 101098 | Enemies | Mob |
-|||||
-|NULL|101099|NULL|NULL|
-|||||
 | Guardian of The Beer | 1010100| Enemy| Boss |
 | Moby Murloc | 101100 | Enemies | Boss |
 | Captain Ben | 101101 | Town Folk | Quest Giver |
