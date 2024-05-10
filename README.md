@@ -144,3 +144,17 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Fangtooth Herring School | 192049 | Game Object | Fishing Hole |
 | Frostwolf Banner | 179025 | Game Object | Object |
 | Grain Sack | 181757 | Game Object | Object |
+| Guild Vault | 187293 | Game Object | Object |
+| Horde Banner | 192255 | Game Object | Object |
+| Imperial Manta Ray School | 192052 | Game Object | Fishing Hole |
+| Krom'zar Banner | 164690 | Game Object | Object |
+| Mailbox | 142095 | Game Object | Object |
+| Moonglow Cuttlefish School | 192054 | Game Object | Fishing Hole |
+| Naga Flag | 181694 | Game Object | Object |
+| Nettlefish School | 192057 | Game Object | Fishing Hole |
+| Pirate Flag | 187083 | Game Object | Object |
+| Rich Cobalt Deposit | 189979 | Game Object | Resource |
+| School of Northern Salmon | 189290 | Game Object | Fishing Hole |
+| Scourge Banner | 176087 | Game Object | Object |
+| Skooma CHest | 120000 | Game Object | Chest |
+| Slot Machines | 750001 | Game Object | Special *Requires Volek's Slot Machine code to work |
