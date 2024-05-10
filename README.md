@@ -20,7 +20,7 @@ Special thanks to the others that helped me get this off the ground and helping 
 - [Game Object List](https://morza-island-game-object-list.tiiny.site/)
 
 
-Below is a list of NPC's, Game Object's, Quest, and Item's made for this area/zone
+*Below is a list of NPC's, Game Object's, Quest, and Item's made for this area/zone*
 
 
 ## NPC Zone Information
