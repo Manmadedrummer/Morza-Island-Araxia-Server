@@ -158,3 +158,14 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Scourge Banner | 176087 | Game Object | Object |
 | Skooma CHest | 120000 | Game Object | Chest |
 | Slot Machines | 750001 | Game Object | Special *Requires Volek's Slot Machine code to work |
+| Souvenir Stand | 188179 | Game Object | Object |
+| Stormpike Banner | 179024 | Game Object | Object |
+| Supply Crate | 166872 | Game Object | Object |
+| Sweet Treat Vendor Stand | 183355 | Game Object | Object |
+| Water Barrell | 3658 | Game Object | Resource |
+| Blindweed | 142143 | Game Object | Resource |
+| Dreamfoil | 176584 | Game Object | Resource |
+| Ghost Mushroom | 142144 | Game Object | Resource |
+| Golden Sansam | 176583 | Game Object | Resource |
+| Gromsblood | 176637 | Game Object | Resource |
+| Sungrass | 142142 | Game Object | Resource |
