@@ -13,7 +13,7 @@ Special thanks to the others that helped me get this off the ground and helping 
 ### Teleport Commands
 <small>Map ID for custom zones: 5000</small>
 - **Morza Island**: `.go xyz -13950 2877 9 5000`
-
+- **Valley of Betrayal**: `.go xyz 10461 -9574 22 5000` (WIP)
 
 - A Sortable HTML Table of the NPC List can be found [Here](https://morza-island-npc-list.tiiny.site/)
 ## Zone Information
