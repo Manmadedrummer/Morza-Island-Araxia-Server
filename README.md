@@ -135,37 +135,38 @@ Special thanks to the others that helped me get this off the ground and helping 
 
 ## Game Object Zone Information
 
-| Name             | ID     | Type            | Sub Type               |
-|------------------|--------|---------------------|--------------------|
-| Alliance Banner | 179481 | Game Object | Object |
-| Barbershop Chair | 190683 | Game Object | Object |
-| Barn Straw | 202834 | Game Object | Object |
-| Deep Sea Monsterbelly School | 192053 | Game Object | Fishing Hole |
-| Fangtooth Herring School | 192049 | Game Object | Fishing Hole |
-| Frostwolf Banner | 179025 | Game Object | Object |
-| Grain Sack | 181757 | Game Object | Object |
-| Guild Vault | 187293 | Game Object | Object |
-| Horde Banner | 192255 | Game Object | Object |
-| Imperial Manta Ray School | 192052 | Game Object | Fishing Hole |
-| Krom'zar Banner | 164690 | Game Object | Object |
-| Mailbox | 142095 | Game Object | Object |
-| Moonglow Cuttlefish School | 192054 | Game Object | Fishing Hole |
-| Naga Flag | 181694 | Game Object | Object |
-| Nettlefish School | 192057 | Game Object | Fishing Hole |
-| Pirate Flag | 187083 | Game Object | Object |
-| Rich Cobalt Deposit | 189979 | Game Object | Resource |
-| School of Northern Salmon | 189290 | Game Object | Fishing Hole |
-| Scourge Banner | 176087 | Game Object | Object |
-| Skooma CHest | 120000 | Game Object | Chest |
-| Slot Machines | 750001 | Game Object | Special *Requires Volek's Slot Machine code to work |
-| Souvenir Stand | 188179 | Game Object | Object |
-| Stormpike Banner | 179024 | Game Object | Object |
-| Supply Crate | 166872 | Game Object | Object |
-| Sweet Treat Vendor Stand | 183355 | Game Object | Object |
-| Water Barrell | 3658 | Game Object | Resource |
-| Blindweed | 142143 | Game Object | Resource |
-| Dreamfoil | 176584 | Game Object | Resource |
-| Ghost Mushroom | 142144 | Game Object | Resource |
-| Golden Sansam | 176583 | Game Object | Resource |
-| Gromsblood | 176637 | Game Object | Resource |
-| Sungrass | 142142 | Game Object | Resource |
+| Name                          | ID     | Type        | Sub Type                                  |
+|-------------------------------|--------|-------------|-------------------------------------------|
+| Water Barrell                 | 3658   | Game Object | Resource                                  |
+| Mailbox                       | 142095 | Game Object | Object                                    |
+| Blindweed                     | 142143 | Game Object | Resource                                  |
+| Sungrass                      | 142142 | Game Object | Resource                                  |
+| Ghost Mushroom                | 142144 | Game Object | Resource                                  |
+| Imperial Manta Ray School     | 192052 | Game Object | Fishing Hole                              |
+| Deep Sea Monsterbelly School  | 192053 | Game Object | Fishing Hole                              |
+| Moonglow Cuttlefish School    | 192054 | Game Object | Fishing Hole                              |
+| Nettlefish School             | 192057 | Game Object | Fishing Hole                              |
+| Fangtooth Herring School      | 192049 | Game Object | Fishing Hole                              |
+| School of Northern Salmon     | 189290 | Game Object | Fishing Hole                              |
+| Barbershop Chair              | 190683 | Game Object | Object                                    |
+| Souvenir Stand                | 188179 | Game Object | Object                                    |
+| Sweet Treat Vendor Stand      | 183355 | Game Object | Object                                    |
+| Pirate Flag                   | 187083 | Game Object | Object                                    |
+| Rich Cobalt Deposit           | 189979 | Game Object | Resource                                  |
+| Slot Machines                 | 750001 | Game Object | Special *Requires Volek's Slot Machine code to work |
+| Stormpike Banner              | 179024 | Game Object | Object                                    |
+| Horde Banner                  | 192255 | Game Object | Object                                    |
+| Frostwolf Banner              | 179025 | Game Object | Object                                    |
+| Scourge Banner                | 176087 | Game Object | Object                                    |
+| Krom'zar Banner               | 164690 | Game Object | Object                                    |
+| Naga Flag                     | 181694 | Game Object | Object                                    |
+| Grain Sack                    | 181757 | Game Object | Object                                    |
+| Guild Vault                   | 187293 | Game Object | Object                                    |
+| Supply Crate                  | 166872 | Game Object | Object                                    |
+| Barn Straw                    | 202834 | Game Object | Object                                    |
+| Alliance Banner               | 179481 | Game Object | Object                                    |
+| Skooma CHest                  | 120000 | Game Object | Chest                                     |
+| Gromsblood                    | 176637 | Game Object | Resource                                  |
+| Golden Sansam                 | 176583 | Game Object | Resource                                  |
+| Dreamfoil                     | 176584 | Game Object | Resource                                  |
+
