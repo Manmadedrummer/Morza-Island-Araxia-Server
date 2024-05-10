@@ -1,4 +1,4 @@
-# Moraz-Island-Araxia-Server
+# Morza-Island-Araxia-Server
 
 All the data for Morza Island for the Araxia Server.
 
