@@ -138,5 +138,9 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Name             | ID     | Type            | Sub Type               |
 |------------------|--------|---------------------|--------------------|
 | Alliance Banner | 179481 | Game Object | Object |
-
-
+| Barbershop Chair | 190683 | Game Object | Object |
+| Barn Straw | 202834 | Game Object | Object |
+| Deep Sea Monsterbelly School | 192053 | Game Object | Fishing Hole |
+| Fangtooth Herring School | 192049 | Game Object | Fishing Hole |
+| Frostwolf Banner | 179025 | Game Object | Object |
+| Grain Sack | 181757 | Game Object | Object |
