@@ -15,7 +15,7 @@ Special thanks to the others that helped me get this off the ground and helping 
 - **Morza Island**: `.go xyz -13950 2877 9 5000`
 
 
--A Sortable HTML Table of the NPC List can be found [Here](https://morza-island-npc-list.tiiny.site/)
+- A Sortable HTML Table of the NPC List can be found [Here](https://morza-island-npc-list.tiiny.site/)
 ## Zone Information
 
 | Name             | ID     | Type            | Sub Type               |
