@@ -19,10 +19,12 @@ Special thanks to the others that helped me get this off the ground and helping 
 - [NPC List](https://morza-island-npc-list.tiiny.site/)
 - [Game Object List](https://morza-island-game-object-list.tiiny.site/)
 
+
+Below is a list of NPC's, Game Object's, Quest, and Item's made for this area/zone
+
+
 ## NPC Zone Information
 
-
-  
 | Name                  | ID       | Type       | Sub Type                  |
 |-----------------------|----------|------------|---------------------------|
 | Brown Horse           | 284      | Critters   | Horse                     |
