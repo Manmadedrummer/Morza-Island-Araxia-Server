@@ -133,9 +133,10 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Imposter Queen | 800801 | Enemies | Boss |
 | JP Morgan | 30605 | Town Folk | Banker |
 
+## Game Object Zone Information
 
-
-
-
+| Name             | ID     | Type            | Sub Type               |
+|------------------|--------|---------------------|--------------------|
+| Alliance Banner | 179481 | Game Object | Object |
 
 
