@@ -53,7 +53,7 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Haris Pilton          | 101025   | Vendor     | Socialite                 |
 | Ricole Nichie         | 101026   | Town Folk | Ex-Socialite              |
 | Farmer Fred           | 101027   | Town Folk | Quest Giver               |
-| Chuck Stelrod         | 101028   | Vendor     | Mining Supplies           |
+| Chuck Steelrod         | 101028   | Vendor     | Mining Supplies           |
 | Layla Swanwater       | 101029   | Vendor     | Enchanting Supplies       |
 | Brizler               | 101030   | Vendor     | Engineering Supplies      |
 | Dibella               | 101031   | Vendor     | Inscription Supplies      |
