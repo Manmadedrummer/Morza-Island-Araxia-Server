@@ -15,11 +15,12 @@ Special thanks to the others that helped me get this off the ground and helping 
 - **Morza Island**: `.go xyz -13950 2877 9 5000`
 - **Valley of Betrayal**: `.go xyz 10461 -9574 22 5000` (WIP)
 
+### Sortable Tables
+- [NPC List](https://morza-island-npc-list.tiiny.site/)
+- [Game Object List](https://morza-island-game-object-list.tiiny.site/)
 
 ## NPC Zone Information
 
-- A Sortable HTML Table of the NPC List can be found [Here](https://morza-island-npc-list.tiiny.site/)
-- Sotable Game Object List [Here](https://morza-island-game-object-list.tiiny.site/)
 
   
 | Name                  | ID       | Type       | Sub Type                  |
