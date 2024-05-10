@@ -169,7 +169,7 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Supply Crate                  | 166872 | Game Object | Object                                    |
 | Barn Straw                    | 202834 | Game Object | Object                                    |
 | Alliance Banner               | 179481 | Game Object | Object                                    |
-| Skooma CHest                  | 120000 | Game Object | Chest                                     |
+| Skooma Chest                  | 120000 | Game Object | Chest                                     |
 | Gromsblood                    | 176637 | Game Object | Resource                                  |
 | Golden Sansam                 | 176583 | Game Object | Resource                                  |
 | Dreamfoil                     | 176584 | Game Object | Resource                                  |
