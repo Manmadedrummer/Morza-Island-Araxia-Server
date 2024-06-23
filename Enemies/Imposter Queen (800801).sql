@@ -6,7 +6,7 @@ INSERT INTO `creature_template` (`entry`, `difficulty_entry_1`, `difficulty_entr
 --EQUIPMENT
 DELETE FROM `creature_equip_template` WHERE (`CreatureID` = 800801);
 INSERT INTO `creature_equip_template` (`CreatureID`, `ID`, `ItemID1`, `ItemID2`, `ItemID3`, `VerifiedBuild`) VALUES
-(800801, 1, 3206, 8138, 25702, 0);
+(800801, 1, 3206, 143, 0, 0);
 
 --SPAWN
 DELETE FROM `creature` WHERE (`id1` = 800801);
