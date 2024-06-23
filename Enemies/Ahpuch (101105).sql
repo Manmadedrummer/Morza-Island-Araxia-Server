@@ -17,6 +17,19 @@ INSERT INTO `creature_template_spell` (`CreatureID`, `Index`, `Spell`, `Verified
 (101105, 2, 12745, 12340),
 (101105, 3, 8269, 12340);
 
+--SMART AI
+UPDATE `creature_template` SET `AIName` = 'SmartAI' WHERE `entry` = 101105;
+
+DELETE FROM `smart_scripts` WHERE (`source_type` = 0 AND `entryorguid` = 101105);
+INSERT INTO `smart_scripts` (`entryorguid`, `source_type`, `id`, `link`, `event_type`, `event_phase_mask`, `event_chance`, `event_flags`, `event_param1`, `event_param2`, `event_param3`, `event_param4`, `event_param5`, `event_param6`, `action_type`, `action_param1`, `action_param2`, `action_param3`, `action_param4`, `action_param5`, `action_param6`, `target_type`, `target_param1`, `target_param2`, `target_param3`, `target_param4`, `target_x`, `target_y`, `target_z`, `target_o`, `comment`) VALUES
+(101105, 0, 0, 0, 0, 0, 100, 0, 5000, 9000, 16000, 22000, 0, 0, 11, 8255, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 'Ahpuch - In Combat - Cast \'Strong Cleave\' (No Repeat) (Normal Dungeon)'),
+(101105, 0, 1, 0, 0, 0, 100, 0, 11000, 15000, 12000, 17000, 0, 0, 11, 12745, 257, 0, 0, 0, 0, 5, 0, 0, 1, 0, 0, 0, 0, 0, 'Ahpuch - In Combat - Cast \'Mana Burn\' (No Repeat) (Normal Dungeon)'),
+(101105, 0, 2, 0, 0, 0, 100, 0, 3000, 5000, 13000, 24000, 0, 0, 11, 13459, 33, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 'Ahpuch - In Combat - Cast \'Decimate\' (No Repeat) (Normal Dungeon)'),
+(101105, 0, 4, 0, 61, 0, 100, 0, 0, 0, 0, 0, 0, 0, 11, 10864, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 'Ahpuch - Between 0-75% Health - Cast \'Razelikh\'s Tear I\' (No Repeat)'),
+(101105, 0, 6, 0, 61, 0, 100, 0, 0, 0, 0, 0, 0, 0, 11, 10854, 1, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 'Ahpuch - Between 0-50% Health - Cast \'Flames of Chaos\' (No Repeat)'),
+(101105, 0, 8, 0, 61, 0, 100, 0, 0, 0, 0, 0, 0, 0, 11, 10866, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 'Ahpuch - Between 0-25% Health - Cast \'Razelikh\'s Tear II\' (No Repeat)'),
+(101105, 0, 9, 0, 2, 0, 100, 1, 0, 15, 0, 0, 0, 0, 11, 8269, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 'Ahpuch - Between 0-15% Health - Cast \'Frenzy\' (No Repeat)');
+
 
 --LOOT
 DELETE FROM `creature_loot_template` WHERE (`Entry` = 101105);
@@ -39,20 +52,3 @@ INSERT INTO `creature_loot_template` (`Entry`, `Item`, `Reference`, `Chance`, `Q
 (101105, 14492, 0, 0.56, 0, 1, 0, 1, 1, 'Razelikh the Defiler - Pattern: Felcloth Boots'),
 (101105, 47329, 0, 100, 0, 1, 0, 1, 1, ''),
 (101105, 47239, 0, 100, 0, 1, 0, 1, 1, '');
-
-
-
-
---SMART AI
-UPDATE `creature_template` SET `AIName` = 'SmartAI' WHERE `entry` = 101105;
-
-DELETE FROM `smart_scripts` WHERE (`source_type` = 0 AND `entryorguid` = 101105);
-INSERT INTO `smart_scripts` (`entryorguid`, `source_type`, `id`, `link`, `event_type`, `event_phase_mask`, `event_chance`, `event_flags`, `event_param1`, `event_param2`, `event_param3`, `event_param4`, `event_param5`, `event_param6`, `action_type`, `action_param1`, `action_param2`, `action_param3`, `action_param4`, `action_param5`, `action_param6`, `target_type`, `target_param1`, `target_param2`, `target_param3`, `target_param4`, `target_x`, `target_y`, `target_z`, `target_o`, `comment`) VALUES
-(101105, 0, 0, 0, 0, 0, 100, 0, 5000, 9000, 16000, 22000, 0, 0, 11, 8255, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 'Ahpuch - In Combat - Cast \'Strong Cleave\' (No Repeat) (Normal Dungeon)'),
-(101105, 0, 1, 0, 0, 0, 100, 0, 11000, 15000, 12000, 17000, 0, 0, 11, 12745, 257, 0, 0, 0, 0, 5, 0, 0, 1, 0, 0, 0, 0, 0, 'Ahpuch - In Combat - Cast \'Mana Burn\' (No Repeat) (Normal Dungeon)'),
-(101105, 0, 2, 0, 0, 0, 100, 0, 3000, 5000, 13000, 24000, 0, 0, 11, 13459, 33, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 'Ahpuch - In Combat - Cast \'Decimate\' (No Repeat) (Normal Dungeon)'),
-(101105, 0, 3, 4, 2, 0, 100, 1, 0, 75, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 'Ahpuch - Between 0-75% Health - Say Line 0 (No Repeat)'),
-(101105, 0, 4, 0, 61, 0, 100, 0, 0, 0, 0, 0, 0, 0, 11, 10864, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 'Ahpuch - Between 0-75% Health - Cast \'Razelikh\'s Tear I\' (No Repeat)'),
-(101105, 0, 6, 0, 61, 0, 100, 0, 0, 0, 0, 0, 0, 0, 11, 10854, 1, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 'Ahpuch - Between 0-50% Health - Cast \'Flames of Chaos\' (No Repeat)'),
-(101105, 0, 8, 0, 61, 0, 100, 0, 0, 0, 0, 0, 0, 0, 11, 10866, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 'Ahpuch - Between 0-25% Health - Cast \'Razelikh\'s Tear II\' (No Repeat)'),
-(101105, 0, 9, 0, 2, 0, 100, 1, 0, 15, 0, 0, 0, 0, 11, 8269, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 'Ahpuch - Between 0-15% Health - Cast \'Frenzy\' (No Repeat)');
