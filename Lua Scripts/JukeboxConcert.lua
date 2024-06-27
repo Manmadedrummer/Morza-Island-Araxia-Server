@@ -1,6 +1,6 @@
 -- Created by Manmadedrummer for the Araxia Server
 
-local GameObjectEntry = 8675309 -- GameObject ID
+local GameObjectEntry = 8675309
 
 local songs = {
     { id = 1, name = "I AM MURLOC", soundID = 50000 },
@@ -16,9 +16,8 @@ local songs = {
 -- Cost of playing each song (10 gold in copper)
 local songCost = 100000
 
-
 function JukeboxOnGossipHello(event, player, object)
-    player:GossipClearMenu()
+    player:GossipClearMenu() -- Clear any existing menu options
 
     for _, song in ipairs(songs) do
         player:GossipMenuAddItem(0, song.name .. " (Cost: 10 gold)", 0, song.id)
@@ -36,10 +35,10 @@ function JukeboxOnGossipSelect(event, player, object, sender, intid, code)
             break
         end
     end
-  
+
     if selectedSong then
         if player:GetCoinage() >= songCost then
-            player:ModifyMoney(-songCost)
+            player:ModifyMoney(-songCost) -- Deduct 10 gold from player
             player:PlayMusic(selectedSong.soundID)
             player:SendBroadcastMessage("You selected " .. selectedSong.name .. ". You spent 10 gold to play this song.")
         else
@@ -49,3 +48,7 @@ function JukeboxOnGossipSelect(event, player, object, sender, intid, code)
 
     player:GossipComplete()
 end
+
+-- Register gossip events for the GameObject
+RegisterGameObjectGossipEvent(GameObjectEntry, 1, JukeboxOnGossipHello)
+RegisterGameObjectGossipEvent(GameObjectEntry, 2, JukeboxOnGossipSelect)
