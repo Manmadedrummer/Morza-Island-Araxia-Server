@@ -1,6 +1,6 @@
 -- Created by Manmadedrummer for the Araxia Server
 
-local GameObjectEntry = 8675309
+local GameObjectEntry = 8675309 -- GameObject ID
 
 local songs = {
     { id = 1, name = "I AM MURLOC", soundID = 50000 },
