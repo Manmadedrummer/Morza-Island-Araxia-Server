@@ -48,3 +48,4 @@ function JukeboxOnGossipSelect(event, player, object, sender, intid, code)
     end
 
     player:GossipComplete()
+end
