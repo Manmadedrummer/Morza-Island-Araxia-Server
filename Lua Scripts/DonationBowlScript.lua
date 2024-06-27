@@ -1,3 +1,5 @@
+-- Created by Manmadedrummer for the Araxia Server
+
 local DonationBowlScript = {}
 
 local GOLD_25 = 25 * 10000    -- 25 gold in copper
@@ -34,7 +36,6 @@ function DonationBowlScript.OnSelect(event, player, object, sender, intid, code,
     if currentMoney >= copperCost then
         player:ModifyMoney(-copperCost)
         
-        -- Apply the buff
         player:AddAura(buffSpellID, player)
         
         player:SendNotification("You have donated " .. (copperCost / 10000) .. " gold and received a blessing in return!")
