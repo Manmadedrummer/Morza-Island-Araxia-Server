@@ -18,7 +18,7 @@ local songCost = 100000
 
 
 function JukeboxOnGossipHello(event, player, object)
-    player:GossipClearMenu() -- Clear any existing menu options
+    player:GossipClearMenu()
 
     for _, song in ipairs(songs) do
         player:GossipMenuAddItem(0, song.name .. " (Cost: 10 gold)", 0, song.id)
