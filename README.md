@@ -8,7 +8,7 @@ Special thanks to NotCoffee418 and RStijin for the custom maps.
 
 
 Special thanks to the others that helped me get this off the ground and helping along the way.
-- Volek, Houston, Ragestriker, Cronus, Xonxy, Honey, and Veggie.
+- Volek, Houston, Ragestriker, Cronus, Xonxy, Honey, and Veggie. A special thank you to Sir. Wiggles for helping me figure out some lua and donating some code.
 
 ### Teleport Commands
 <small>Map ID for custom zones: 5000</small>
