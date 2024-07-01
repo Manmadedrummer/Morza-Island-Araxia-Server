@@ -124,6 +124,7 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Jay                   | 101096   | Town Folk | Quest Giver               |
 | Silent BOB            | 101097   | Town Folk | Concert Goer              |
 | Moraz Lasher          | 101098   | Enemies    | Mob                       |
+| William Cold          | 101099   | Town Folk  | Standup Comedian *Lua     |
 | Guardian of The Beer  | 1010100  | Enemies    | Boss                      |
 | Moby Murloc           | 101100   | Enemies    | Boss                      |
 | Captain Ben           | 101101   | Town Folk | Quest Giver               |
@@ -135,6 +136,7 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Imposter High Mage    | 800802   | Enemies    | Boss                      |
 | Imposter King         | 800800   | Enemies    | Boss                      |
 | Imposter Queen        | 800801   | Enemies    | Boss                      |
+
 
 
 ## Game Object Zone Information
