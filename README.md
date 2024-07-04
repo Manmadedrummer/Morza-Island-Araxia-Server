@@ -175,4 +175,6 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Gromsblood                    | 176637 | Game Object | Resource                                  |
 | Golden Sansam                 | 176583 | Game Object | Resource                                  |
 | Dreamfoil                     | 176584 | Game Object | Resource                                  |
+| Temple Offering Bowl          | 1000100 | Game Object | *Lua Script                              |
+| Song Requester                | 8675309 | Game Object | *Lua Scripte                             |
 
