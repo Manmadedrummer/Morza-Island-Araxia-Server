@@ -7,9 +7,8 @@ Special thanks to NotCoffee418 and RStijin for the custom maps.
 - The maps and the patch for this area can be downloaded from patch-Z.
 The sound files come from the bands: Songhammer and Level 70 Elite Tauren Chieftain. Please go buy something from these bands to support them.
 
-
 Just run the SQL statements provided, on your favorite database editor and you should be good to go.
-
+The 'DBC Table Info' is the table you need to run against your world/server database (For Azerothcore its, acore_world)
 
 
 
