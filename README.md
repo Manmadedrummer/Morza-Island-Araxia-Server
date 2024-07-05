@@ -141,6 +141,11 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Imposter High Mage    | 800802   | Enemies    | Boss                      |
 | Imposter King         | 800800   | Enemies    | Boss                      |
 | Imposter Queen        | 800801   | Enemies    | Boss                      |
+| Brock Simmons         | 800765 | Gamblling Hall | Rock Paper Scissors *Lua |
+| Simone                | 800796 | Gambling Hall | Trivia Master *Lua |
+| Loose Lip Jim         | 800797 | Gambling Hall | Gambler *Lua |
+| Snake-Eyez Malone     | 800799 | Gambling Hall | Deathroller *Lua |
+
 
 
 
