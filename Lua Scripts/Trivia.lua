@@ -1,4 +1,4 @@
--- Trivia Game made by Manmadedrummer for Araxia Server
+--Trivia Game made for Araxia Server by Manmadedrummer
 
 local NPC_ID = 800796
 
@@ -23,6 +23,26 @@ local QUESTIONS = {
     {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t Which of the following weapons is NOT summoned by Kael'thas Sunstrider in The Eye raid in World of Warcraft?", options = {"a) Phaseshift Bulwark", "b) Warp Slicer", "c) Twinblade of the Phoenix", "d) Infinity Blade"}, answer = 3},
     {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t What is the racial enemy of the tauren in World of Warcraft?", options = {"a) Gnolls", "b) Harpies", "c) Centaurs", "d) Murlocs"}, answer = 3},
     {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t Where would you find Timmy the Cruel in World of Warcraft?", options = {"a) Stratholme", "b) Scholomance", "c) Scarlet Monastery", "d) Blackrock Depths"}, answer = 1},
+    {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t Who is the leader of the Blood Elves during the events of The Burning Crusade?", options = {"a) Lor'themar Theron", "b) Kael'thas Sunstrider", "c) Lady Liadrin", "d) Anasterian Sunstrider"}, answer = 2},
+    {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t What is the name of the dragon aspect of the bronze dragonflight?", options = {"a) Alexstrasza", "b) Nozdormu", "c) Malygos", "d) Ysera"}, answer = 2},
+    {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t Which zone is home to the dungeon 'The Nexus'?", options = {"a) Dragonblight", "b) Howling Fjord", "c) Borean Tundra", "d) Grizzly Hills"}, answer = 3},
+    {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t What artifact does Arthas Menethil use to become the Lich King?", options = {"a) Frostmourne", "b) Ashbringer", "c) Shadowmourne", "d) Doomhammer"}, answer = 1},
+    {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t What is the name of the Naaru found in Shattrath City?", options = {"a) A'dal", "b) M'uru", "c) K'ure", "d) O'ros"}, answer = 1},
+    {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t Which raid boss in Wrath of the Lich King is known as 'The God of Death'?", options = {"a) Yogg-Saron", "b) C'Thun", "c) Malygos", "d) Kel'Thuzad"}, answer = 1},
+    {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t Who is the final boss of the Black Temple raid?", options = {"a) Illidan Stormrage", "b) Akama", "c) Teron'gor", "d) Mother Shahraz"}, answer = 1},
+    {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t Which dungeon is located within the ruins of the former night elf city of Zin-Azshari?", options = {"a) Sunken Temple", "b) Dire Maul", "c) The Temple of Atal'Hakkar", "d) The Eye of Eternity"}, answer = 2},
+    {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t What is the name of the weapon that Thrall wields?", options = {"a) Doomhammer", "b) Gorehowl", "c) Frostmourne", "d) Ashbringer"}, answer = 1},
+    {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t Which faction does Lady Sylvanas Windrunner lead?", options = {"a) The Argent Crusade", "b) The Forsaken", "c) The Kirin Tor", "d) The Silver Hand"}, answer = 2},
+    {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t What is the name of the dreadlord who led the Scourge invasion of Kalimdor?", options = {"a) Mal'Ganis", "b) Balnazzar", "c) Tichondrius", "d) Varimathras"}, answer = 1},
+    {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t Which zone is home to the raid instance Ulduar?", options = {"a) Icecrown", "b) Storm Peaks", "c) Dragonblight", "d) Howling Fjord"}, answer = 2},
+    {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t What is the name of the night elf demigod who resides in Moonglade?", options = {"a) Cenarius", "b) Malfurion", "c) Elune", "d) Ysera"}, answer = 1},
+    {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t Who was the original wielder of Ashbringer?", options = {"a) Alexandros Mograine", "b) Darion Mograine", "c) Tirion Fordring", "d) Bolvar Fordragon"}, answer = 1},
+    {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t In Wrath of the Lich King, what is the name of the undead dragon boss in Naxxramas?", options = {"a) Sapphiron", "b) Sindragosa", "c) Nefarian", "d) Onyxia"}, answer = 1},
+    {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t What is the capital city of the Blood Elves?", options = {"a) Silvermoon City", "b) Darnassus", "c) Exodar", "d) Undercity"}, answer = 1},
+    {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t What is the name of the elemental plane of air in World of Warcraft?", options = {"a) Deepholm", "b) Skywall", "c) Firelands", "d) Abyssal Maw"}, answer = 2},
+    {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t Which Old God is associated with Ahn'Qiraj?", options = {"a) Yogg-Saron", "b) C'Thun", "c) N'Zoth", "d) Y'Shaarj"}, answer = 2},
+    {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t What race can be druids in World of Warcraft?", options = {"a) Human and Orc", "b) Night Elf and Tauren", "c) Gnome and Dwarf", "d) Blood Elf and Undead"}, answer = 2},
+    {question = "|TInterface\\icons\\Inv_misc_questionmark:25|t What is the name of the World Tree in Mount Hyjal?", options = {"a) Nordrassil", "b) Teldrassil", "c) Vordrassil", "d) Andrassil"}, answer = 1},
 }
 
 local function shuffleTable(tbl)
@@ -39,9 +59,9 @@ local PLAYER_QUESTIONS = {}
 local function AskQuestion(player, object)
     local currentQuestion = PLAYER_QUESTIONS[CURRENT_QUESTION]
     player:GossipClearMenu()
-    player:GossipMenuAddItem(0, currentQuestion.question, 0, 0)
+    player:GossipMenuAddItem(0, currentQuestion.question, 1, 999) -- Display question as non-selectable
     for i, option in ipairs(currentQuestion.options) do
-        player:GossipMenuAddItem(0, option, 0, 100 + i)
+        player:GossipMenuAddItem(0, option, 0, 100 + i) -- Display answers as selectable options
     end
     player:GossipSendMenu(1, object)
 end
@@ -71,6 +91,8 @@ local function OnGossipSelect(event, player, object, sender, intid, code)
         player:GossipSendMenu(1, object)
     elseif intid == 3 then
         player:GossipComplete()
+    elseif intid == 999 then
+        -- Do nothing when the question itself is clicked
     elseif intid >= 101 and intid <= 104 then
         local selectedOption = intid - 100
         local currentQuestion = PLAYER_QUESTIONS[CURRENT_QUESTION]
@@ -85,7 +107,7 @@ local function OnGossipSelect(event, player, object, sender, intid, code)
             if CORRECT_ANSWERS > 0 then
                 local rewardGold = CORRECT_ANSWERS * 20 * 10000 -- 20 gold per correct answer, in copper
                 player:ModifyMoney(rewardGold)
-                player:SendBroadcastMessage("You've been rewarded with " .. (CORRECT_ANSWERS * 20) .. " gold.")
+                player:SendBroadcastMessage("|cff800080You've been rewarded with " .. (CORRECT_ANSWERS * 20) .. " gold.|r")
             end
             player:GossipComplete()
         end
