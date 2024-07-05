@@ -21,7 +21,7 @@ Special thanks to the others that helped me get this off the ground and helping 
 - **Valley of Betrayal**: `.go xyz 10461 -9574 22 5000` (WIP)
 
 #### Sortable Tables
-- [NPC List]([https://morza-island-npc-list.tiiny.site/](https://harlequin-carmine-17.tiiny.site/))
+- [NPC List](https://harlequin-carmine-17.tiiny.site/)
 - [Game Object List](https://morza-island-game-object-list.tiiny.site/)
 
 
