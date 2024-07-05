@@ -1,3 +1,5 @@
+-- Trivia Game made by Manmadedrummer for Araxia Server
+
 local NPC_ID = 800796
 
 local QUESTIONS = {
