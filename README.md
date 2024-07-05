@@ -4,9 +4,11 @@ All the data for Morza Island for the Araxia Server.
 
 Special thanks to NotCoffee418 and RStijin for the custom maps.
 - [NotCoffee418's Custom Maps](https://github.com/NotCoffee418/Custom-Maps): Custom Zones for World of Warcraft 3.3.5a by RStijn
-- The maps and the patch for this area can be downloaded on his github [this link](https://github.com/NotCoffee418/Custom-Maps/blob/master/patch-Z.MPQ) and follow the instructions provided in the project documentation.
+- The maps and the patch for this area can be downloaded from patch-Z.
+The sound files come from the bands: Songhammer and Level 70 Elite Tauren Chieftain. Please go buy something from these bands to support them.
 
-Just run the SQL statements on your favorite database editor and you should be good to go.
+
+Just run the SQL statements provided, on your favorite database editor and you should be good to go.
 
 
 
