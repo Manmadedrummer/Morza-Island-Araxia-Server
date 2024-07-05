@@ -1,3 +1,5 @@
+-- Original Script from Global_WOW (https://global-wow.com/page/scripts/tbc/Gambler.lua) edited by Manmadedrummer for Araxia Server
+
 local NPC_ID = 800797
 local TOKEN_ID = 910001
 local MENU_MAIN = 500555
