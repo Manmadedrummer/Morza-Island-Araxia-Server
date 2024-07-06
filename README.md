@@ -137,6 +137,8 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Druids of The Clones  | 101103   | Town Folk | Druids                    |
 | Moraz Demon Spirit    | 101104   | Enemies    | Mob                       |
 | Ahpuch                | 101105   | Enemies    | Boss                      |
+| Toki Wartooth         | 101108   | Concert    | Quest Giver                 |
+| Skwisgaar Skwigelf    | 101109   | Concert    | Quest Giver                 |
 | JP Morgan             | 30605    | Town Folk | Banker                    |
 | Imposter King         | 800800   | Enemies    | Boss                      |
 | Imposter Queen        | 800801   | Enemies    | Boss                      |
