@@ -1,7 +1,7 @@
 --Quest_Template_Addon
 DELETE FROM `quest_template_addon` WHERE (`ID` = 90025);
 INSERT INTO `quest_template_addon` (`ID`, `MaxLevel`, `AllowableClasses`, `SourceSpellID`, `PrevQuestID`, `NextQuestID`, `ExclusiveGroup`, `RewardMailTemplateID`, `RewardMailDelay`, `RequiredSkillID`, `RequiredSkillPoints`, `RequiredMinRepFaction`, `RequiredMaxRepFaction`, `RequiredMinRepValue`, `RequiredMaxRepValue`, `ProvidedItemCount`, `SpecialFlags`) VALUES
-(90025, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+(90025, 0, 0, 0, 0, 90026, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 --Quest Offer Reward
 DELETE FROM `quest_offer_reward` WHERE (`ID` = 90025);
