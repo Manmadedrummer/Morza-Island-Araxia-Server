@@ -109,7 +109,7 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Bouncers              | 101075   | Concert    | Bouncers                  |
 | Mizli                 | 101076   | Concert    | Roadie                    |
 | Ognip                 | 101077   | Concert    | Roadie                    |
-| Michael Schweitzer    | 101078   | Concert    | Band Manager              |
+| Michael Schweitzer    | 101078   | Concert    | Band Manager   *Lua       |
 | Too Close Shave       | 101079   | Town Folk | Barber                    |
 | Slim                  | 101080   | Vendor     | Shady Goods               |
 | Joe Dirt              | 101081   | Town Folk | Waste Management          |
