@@ -6,7 +6,7 @@ INSERT INTO `quest_template` (`ID`, `QuestType`, `QuestLevel`, `MinLevel`, `Ques
 --QUEST ADDON
 DELETE FROM `quest_template_addon` WHERE (`ID` = 90021);
 INSERT INTO `quest_template_addon` (`ID`, `MaxLevel`, `AllowableClasses`, `SourceSpellID`, `PrevQuestID`, `NextQuestID`, `ExclusiveGroup`, `RewardMailTemplateID`, `RewardMailDelay`, `RequiredSkillID`, `RequiredSkillPoints`, `RequiredMinRepFaction`, `RequiredMaxRepFaction`, `RequiredMinRepValue`, `RequiredMaxRepValue`, `ProvidedItemCount`, `SpecialFlags`) VALUES
-(90021, 0, 0, 0, 0, 0, 11665, 0, 0, 356, 1, 0, 0, 0, 0, 0, 1);
+(90021, 0, 0, 0, 0, 0, 80000, 0, 0, 356, 1, 0, 0, 0, 0, 0, 1);
 
 --QUEST OFFER REWARD
 DELETE FROM `quest_offer_reward` WHERE (`ID` = 90021);
