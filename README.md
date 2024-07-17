@@ -6,9 +6,9 @@ Special thanks to NotCoffee418 and RStijin for the custom maps.
 - [NotCoffee418's Custom Maps](https://github.com/NotCoffee418/Custom-Maps): Custom Zones for World of Warcraft 3.3.5a by RStijn
 - The maps and the patch for this area can be downloaded from patch-Z (included in this repo).
 The sound files come from the bands: Songhammer and Level 70 Elite Tauren Chieftain. Please go buy something from these bands to support them.
-
+<br>
 ***This is my first attempt at Lua and some other things, if you can see or wanna help make improvements feel free to share/ do request.***
-
+<br>
 Just run the SQL statements provided, on your favorite database editor (I personally used keira for the creatures and stuff, or you can use DBeaver, or whatever SQL editor you useand you should be good to go.
 
 The 'DBC Table Info' is the table you need to run against your world/server database using a SQL editor (i.e. Heidi SQL, DBeaver, etc.) (For Azerothcore its, acore_world)
