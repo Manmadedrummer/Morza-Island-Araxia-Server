@@ -4,16 +4,19 @@ All the data for Morza Island for the Araxia Server.
 
 Special thanks to NotCoffee418 and RStijin for the custom maps.
 - [NotCoffee418's Custom Maps](https://github.com/NotCoffee418/Custom-Maps): Custom Zones for World of Warcraft 3.3.5a by RStijn
-- The maps and the patch for this area can be downloaded from patch-Z (ncluded in this repo).
+- The maps and the patch for this area can be downloaded from patch-Z (included in this repo).
 The sound files come from the bands: Songhammer and Level 70 Elite Tauren Chieftain. Please go buy something from these bands to support them.
 
-Just run the SQL statements provided, on your favorite database editor and you should be good to go.
-The 'DBC Table Info' is the table you need to run against your world/server database (For Azerothcore its, acore_world)
+***This is my first attempt at Lua and some other things, if you can see or wanna help make improvements feel free to share/ do request.***
+
+Just run the SQL statements provided, on your favorite database editor (I personally used keira for the creatures and stuff, or you can use DBeaver, or whatever SQL editor you useand you should be good to go.
+
+The 'DBC Table Info' is the table you need to run against your world/server database using a SQL editor (i.e. Heidi SQL, DBeaver, etc.) (For Azerothcore its, acore_world)
 
 
 
 Special thanks to the others that helped me get this off the ground and helping along the way.
-- Volek, Houston, Ragestriker, Cronus, Xonxy, Honey, and Veggie. A special thank you to Sir. Wiggles for helping me figure out some lua and donating some code.
+- Volek, dast, Ragestriker, Cronus, Xonxy, 55Honey, and the various other peeps on the Discord channels. A special thank you to Sir. Wiggles for helping me figure out some lua and donating some code.
 
 ### Teleport Commands
 <small>Map ID for custom zones: 5000</small>
