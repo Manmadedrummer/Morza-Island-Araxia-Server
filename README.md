@@ -14,7 +14,7 @@ The sound files come from the bands: Songhammer and Level 70 Elite Tauren Chieft
 Make a backup of your stuff before running these, don't know if it will overwrite any custom content you may have on your own servers.
 
 <br>
-
+<br>
 Just run the SQL statements provided, on your favorite database editor (I personally used keira for the creatures and stuff, or you can use DBeaver, or whatever SQL editor you useand you should be good to go.
 
 <br>
