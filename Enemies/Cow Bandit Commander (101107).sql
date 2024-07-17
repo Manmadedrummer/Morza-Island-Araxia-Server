@@ -14,7 +14,6 @@ INSERT INTO `smart_scripts` (`entryorguid`, `source_type`, `id`, `link`, `event_
 (101107, 0, 2, 0, 0, 0, 100, 0, 42800, 42800, 42800, 42800, 0, 0, 11, 23600, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 'Cow Bandit Commander - In Combat - Cast \'Piercing Howl\''),
 (101107, 0, 3, 4, 2, 0, 100, 1, 0, 30, 0, 0, 0, 0, 11, 8599, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 'Cow Bandit Commander - Between 0-30% Health - Cast \'Enrage\' (No Repeat)');
 
-
 --Creature Equip Template
 DELETE FROM `creature_equip_template` WHERE (`CreatureID` = 101107);
 INSERT INTO `creature_equip_template` (`CreatureID`, `ID`, `ItemID1`, `ItemID2`, `ItemID3`, `VerifiedBuild`) VALUES
