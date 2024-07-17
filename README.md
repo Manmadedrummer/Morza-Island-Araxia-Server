@@ -7,7 +7,9 @@ Special thanks to NotCoffee418 and RStijin for the custom maps.
 - The maps and the patch for this area can be downloaded from patch-Z (included in this repo).
 The sound files come from the bands: Songhammer and Level 70 Elite Tauren Chieftain. Please go buy something from these bands to support them.
 <br>
+
 ***This is my first attempt at Lua and some other things, if you can see or wanna help make improvements feel free to share/ do request.***
+
 <br>
 Just run the SQL statements provided, on your favorite database editor (I personally used keira for the creatures and stuff, or you can use DBeaver, or whatever SQL editor you useand you should be good to go.
 
