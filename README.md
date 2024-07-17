@@ -48,7 +48,7 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Mouse                 | 3271     | Critters   | Mouse                     |
 | Sheep                 | 1933     | Critters   | Sheep                     |
 | Cow                   | 2442     | Critters   | Cow                       |
-| Betsy                 | 101999   | Critters   | Prized Cow                | X |
+| Betsy                 | 101999   | Critters   | Prized Cow                | Yes |
 | Corline Croissant     | 101000   | Vendor     | Bread Vendor              |
 | Josie Fireforge       | 101001   | Vendor     | Blacksmith Supplies       |
 | Jenath                | 101002   | Town Folk | Auctioneer                |
@@ -120,7 +120,7 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Bouncers              | 101075   | Concert    | Bouncers                  |
 | Mizli                 | 101076   | Concert    | Roadie                    |
 | Ognip                 | 101077   | Concert    | Roadie                    |
-| Michael Schweitzer    | 101078   | Concert    | Band Manager   ***Lua Script***        |
+| Michael Schweitzer    | 101078   | Concert    | Band Manager              | Yes |
 | Too Close Shave       | 101079   | Town Folk | Barber                    |
 | Slim                  | 101080   | Vendor     | Shady Goods               |
 | Joe Dirt              | 101081   | Town Folk | Waste Management          |
@@ -140,7 +140,7 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Jay                   | 101096   | Town Folk | Quest Giver               |
 | Silent BOB            | 101097   | Town Folk | Concert Goer              |
 | Moraz Lasher          | 101098   | Enemies    | Mob                       |
-| William Cold          | 101099   | Town Folk  | Standup Comedian ***Lua Script***      |
+| William Cold          | 101099   | Town Folk  | Standup Comedian          |  Yes |
 | Guardian of The Beer  | 1010100  | Enemies    | Boss                      |
 | Moby Murloc           | 101100   | Enemies    | Boss                      |
 | Captain Ben           | 101101   | Town Folk | Quest Giver               |
@@ -154,10 +154,10 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Imposter King         | 800800   | Enemies    | Boss                      |
 | Imposter Queen        | 800801   | Enemies    | Boss                      |
 | Imposter High Mage    | 800802   | Enemies    | Boss                      |
-| Brock Simmons         | 800765 | Gamblling Hall | Rock Paper Scissors ***Lua Script***  |
-| Simone                | 800796 | Gambling Hall | Trivia Master ***Lua Script***  |
-| Loose Lip Jim         | 800797 | Gambling Hall | Gambler ***Lua Script***  |
-| Snake-Eyez Malone     | 800799 | Gambling Hall | Deathroller ***Lua Script***  |
+| Brock Simmons         | 800765 | Gamblling Hall | Rock Paper Scissors     |  Yes |
+| Simone                | 800796 | Gambling Hall | Trivia Master            | Yes |
+| Loose Lip Jim         | 800797 | Gambling Hall | Gambler                  |  Yes |
+| Snake-Eyez Malone     | 800799 | Gambling Hall | Deathroller *(Made by Sir. Wiggles)*      | Yes |
 
 
 
