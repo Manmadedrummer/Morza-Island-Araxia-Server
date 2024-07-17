@@ -48,7 +48,7 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Mouse                 | 3271     | Critters   | Mouse                     |
 | Sheep                 | 1933     | Critters   | Sheep                     |
 | Cow                   | 2442     | Critters   | Cow                       |
-| Betsy                 | 101999   | Critters   | Prized Cow    *Lua        |
+| Betsy                 | 101999   | Critters   | Prized Cow    <span style="color:red"> *Lua*</span>      |
 | Corline Croissant     | 101000   | Vendor     | Bread Vendor              |
 | Josie Fireforge       | 101001   | Vendor     | Blacksmith Supplies       |
 | Jenath                | 101002   | Town Folk | Auctioneer                |
