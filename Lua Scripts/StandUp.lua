@@ -55,8 +55,8 @@ local function NPC_YellJoke(event, delay, pCall, creature)
     end
 end
 
-local function StartRoutine(event, player, creature)
-    if player:GetMoney() >= COST then
+local function StartRoutine(player, creature)
+    if player:GetCoinage() >= COST then
         player:ModifyMoney(-COST)
         creature:SendUnitYell("Alright, get ready for some jokes!", 0)
         creature:RegisterEvent(NPC_YellJoke, 1000, 1) -- Start immediately
@@ -73,7 +73,7 @@ end
 
 local function GossipSelect(event, player, creature, sender, intid, code)
     if intid == 1 then
-        StartRoutine(event, player, creature)
+        StartRoutine(player, creature)
     end
     player:GossipComplete()
 end
