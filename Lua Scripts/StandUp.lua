@@ -80,4 +80,3 @@ end
 
 RegisterCreatureGossipEvent(NPC_ID, 1, GossipHello)
 RegisterCreatureGossipEvent(NPC_ID, 2, GossipSelect)
-RegisterCreatureEvent(NPC_ID, 5, StartRoutine)
