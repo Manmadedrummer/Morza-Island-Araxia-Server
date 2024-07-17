@@ -56,7 +56,7 @@ local function NPC_YellJoke(event, delay, pCall, creature)
 end
 
 local function StartRoutine(event, player, creature)
-    if player:GetCoinage() >= COST then
+    if player:GetMoney() >= COST then
         player:ModifyMoney(-COST)
         creature:SendUnitYell("Alright, get ready for some jokes!", 0)
         creature:RegisterEvent(NPC_YellJoke, 1000, 1) -- Start immediately
