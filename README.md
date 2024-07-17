@@ -11,7 +11,7 @@ The sound files come from the bands: Songhammer and Level 70 Elite Tauren Chieft
 ***This is my first attempt at Lua and some other things, if you can see or wanna help make improvements feel free to share/ do request.***
 
 <br>
-Make a backup of your stuff before running these, don't know if it will overwrite any custom content you may have on your own servers.
+Make a backup of your stuff before running these, don't know if it will overwrite any custom content you may have on your own servers.<br>
 Just run the SQL statements provided, on your favorite database editor (I personally used keira for the creatures and stuff, or you can use DBeaver, or whatever SQL editor you useand you should be good to go.
 <br>
 The 'DBC Table Info' is the table you need to run against your world/server database using a SQL editor (i.e. Heidi SQL, DBeaver, etc.) (For Azerothcore its, acore_world)
