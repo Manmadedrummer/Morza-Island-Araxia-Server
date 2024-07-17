@@ -41,14 +41,14 @@ Special thanks to the others that helped me get this off the ground and helping 
 
 ## NPC Zone Information
 
-| Name                  | ID       | Type       | Sub Type                  |
-|-----------------------|----------|------------|---------------------------|
+| Name                  | ID       | Type       | Sub Type                  |Lua Script       |
+|-----------------------|----------|------------|---------------------------|-----------|
 | Brown Horse           | 284      | Critters   | Horse                     |
 | Chicken               | 620      | Critters   | Chicken                   |
 | Mouse                 | 3271     | Critters   | Mouse                     |
 | Sheep                 | 1933     | Critters   | Sheep                     |
 | Cow                   | 2442     | Critters   | Cow                       |
-| Betsy                 | 101999   | Critters   | Prized Cow    ***Lua Script***       |
+| Betsy                 | 101999   | Critters   | Prized Cow                | X |
 | Corline Croissant     | 101000   | Vendor     | Bread Vendor              |
 | Josie Fireforge       | 101001   | Vendor     | Blacksmith Supplies       |
 | Jenath                | 101002   | Town Folk | Auctioneer                |
