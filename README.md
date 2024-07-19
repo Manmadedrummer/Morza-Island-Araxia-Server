@@ -214,3 +214,10 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Temple Offering Bowl          | 1000100 | Game Object | ***Lua Script***                             |
 | Song Requester                | 8675309 | Game Object | ***Lua Script***                             |
 
+
+## Items Zone Information
+| Name                           | ID                           |
+|--------------------------------|------------------------------|
+| Commander Snarltooth Ironhide Head | 300300                       |
+| OLD Tobys Leaf                 | 300302                       |
+| Skooma                         | 300301                       |
