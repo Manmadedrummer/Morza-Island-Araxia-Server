@@ -115,12 +115,12 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Malfunctioning Harvester | 101060 | Enemies    | Mob                       |
 | Waterfall Beast       | 101061   | Enemies    | Boss                      |
 | Drunk Gordy           | 101062   | Town Folk | Quest Giver               |
-| Birdman               | 101064   | Trainer    | Alchemist Trainer         |
-| Lewt Arshwong         | 101065   | Trainer    | Enchanter Trainer         |
-| Zales                 | 101066   | Trainer    | Jewelcrafting Trainer     |
-| Ponoma Sprout         | 101067   | Trainer    | Herbalist Trainer         |
-| Gilk Forgesmith       | 101068   | Trainer    | Blacksmith Trainer        |
-| Brustak               | 101069   | Trainer    | Leatherworking Trainer    |
+| Birdman               | 101064   | Trainer    | Grand Master Alchemist         |
+| Lewt Arshwong         | 101065   | Trainer    | Grand Master Enchanter |
+| Zales                 | 101066   | Trainer    | Grand Master Jewelcrafting |
+| Ponoma Sprout         | 101067   | Trainer    | Grand Master Herbalist         |
+| Gilk Forgesmith       | 101068   | Trainer    | Grand Master Blacksmith         |
+| Brustak               | 101069   | Trainer    | Grand Master Leatherworker    |
 | Bergristt             | 101070   | Concert    | Bassist                   |
 | Chief Thunder Skins   | 101071   | Concert    | Drummer                   |
 | MaiKyl                | 101072   | Concert    | Guitarist                 |
@@ -160,6 +160,8 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Toki Wartooth         | 101108   | Concert    | Quest Giver                 |
 | Skwisgaar Skwigelf    | 101109   | Concert    | Quest Giver                 |
 | JP Morgan             | 30605    | Town Folk | Banker                    |
+| Bob Belcher | 19185 | Trainer | Grand Master Cook |
+
 | Imposter King         | 800800   | Enemies    | Boss                      |
 | Imposter Queen        | 800801   | Enemies    | Boss                      |
 | Imposter High Mage    | 800802   | Enemies    | Boss                      |
