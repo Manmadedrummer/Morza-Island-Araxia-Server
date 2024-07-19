@@ -68,7 +68,7 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Fisherman Dan         | 101020   | Vendor     | Fisherman                 |
 | Morza Island Citizen Group 1 | 101021   | Town Folk | Town Folk          |
 | Morza Island Citizen Group 2 | 101022   | Town Folk | Town Folk          |
-| Morza Battleguards    | 101023   | Town Folk | Guards                    |
+| Morza Battleguards    | 101023   | Town Folk | Guards                    | Yes |
 | Morza Guards          | 101024   | Town Folk | Guards                    |
 | Haris Pilton          | 101025   | Vendor     | Socialite                 |
 | Ricole Nichie         | 101026   | Town Folk | Ex-Socialite              |
