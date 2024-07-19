@@ -48,6 +48,15 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Mouse                 | 3271     | Critters   | Mouse                     |
 | Sheep                 | 1933     | Critters   | Sheep                     |
 | Cow                   | 2442     | Critters   | Cow                       |
+| Aya Blindbeard        | 26330 | Trainer | Shaman Trainer |
+| Band-Aid | 26328 | Trainer | Priest Trainer |
+| Daniel Crockett | 26325 | Trainer | Hunter Trainer |
+| Gorn The Mighty | 26332 | Trainer | Warrior Trainer |
+| Grizzle Wizzlebang | 26331 | Trainer | Warlock Trainer |
+| Hanzo | 26329 | Trainer | Rogue Trainer |
+| Lady Death | 29195 | Trainer | Death Knight Trainer |
+| Telemicus | 26326 | Trainer | Mage Trainer |
+| Walks-In-Nature | 26324 | Trainer | Druid Trainer |
 | Betsy                 | 101999   | Critters   | Prized Cow                | Yes |
 | Corline Croissant     | 101000   | Vendor     | Bread Vendor              |
 | Josie Fireforge       | 101001   | Vendor     | Blacksmith Supplies       |
