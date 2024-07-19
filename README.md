@@ -16,7 +16,7 @@ Make a backup of your stuff before running these, don't know if it will overwrit
 <br>
 <br>
 Just run the SQL statements provided, on your favorite database editor (I personally used keira for the creatures and stuff, or you can use DBeaver, or whatever SQL editor you useand you should be good to go.
-
+<br>
 <br>
 
 The 'DBC Table Info' is the table you need to run against your world/server database using a SQL editor (i.e. Heidi SQL, DBeaver, etc.) (For Azerothcore its, acore_world)
