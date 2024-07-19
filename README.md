@@ -219,5 +219,5 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Name                           | ID                           |
 |--------------------------------|------------------------------|
 | Commander Snarltooth Ironhide Head | 300300                       |
-| OLD Tobys Leaf                 | 300302                       |
+| Old Toby's Leaf                 | 300302                       |
 | Skooma                         | 300301                       |
