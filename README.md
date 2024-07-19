@@ -164,7 +164,6 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Skwisgaar Skwigelf    | 101109   | Concert    | Quest Giver                 |
 | JP Morgan             | 30605    | Town Folk | Banker                    |
 | Bob Belcher | 19185 | Trainer | Grand Master Cook |
-
 | Imposter King         | 800800   | Enemies    | Boss                      |
 | Imposter Queen        | 800801   | Enemies    | Boss                      |
 | Imposter High Mage    | 800802   | Enemies    | Boss                      |
