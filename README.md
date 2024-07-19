@@ -48,6 +48,9 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Mouse                 | 3271     | Critters   | Mouse                     |
 | Sheep                 | 1933     | Critters   | Sheep                     |
 | Cow                   | 2442     | Critters   | Cow                       |
+| Graarnik Goodstitch | 2627 | Trainer | Grand Master Tailor |
+| Pikkle | 8128 | Trainer | Grand Master Miner |
+| Buzzsaw Tinkertoy | 8736 | Trainer | Grand Master Engineer |
 | Aya Blindbeard        | 26330 | Trainer | Shaman Trainer |
 | Band-Aid | 26328 | Trainer | Priest Trainer |
 | Daniel Crockett | 26325 | Trainer | Hunter Trainer |
