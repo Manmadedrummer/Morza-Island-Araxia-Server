@@ -24,7 +24,7 @@ The 'DBC Table Info' is the table you need to run against your world/server data
 
 
 Special thanks to the others that helped me get this off the ground and helping along the way.
-- Volek, dast, Ragestriker, Cronus, Xonxy, 55Honey, and the various other peeps on the Discord channels. A special thank you to Sir. Wiggles for helping me figure out some lua and donating some code.
+- Volek, dast, Ragestriker, Dranos, Cronus, Xonxy, 55Honey, and the various other peeps on the Discord channels. A special thank you to Sir. Wiggles for helping me figure out some lua and donating some code. A special thanks to Dranos for the minimaps and helping figure out all those fun details.
 
 ### Teleport Commands
 <small>Map ID for custom zones: 5000</small>
