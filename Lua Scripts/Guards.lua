@@ -1,3 +1,5 @@
+--Made by Manmadedrummer for Araxia Server
+
 local NPC_ID = 101024  -- NPC ID set to 101024
 
 local LOCATIONS = {
