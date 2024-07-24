@@ -1,3 +1,5 @@
+--Made by manmadedrummer for Araxia Server
+
 local NPC_ID = 101078
 
 function OnGossipHello(event, player, object)
