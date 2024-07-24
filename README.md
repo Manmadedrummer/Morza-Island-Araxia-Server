@@ -214,6 +214,25 @@ Special thanks to the others that helped me get this off the ground and helping 
 | Temple Offering Bowl          | 1000100 | Game Object | ***Lua Script***                             |
 | Song Requester                | 8675309 | Game Object | ***Lua Script***                             |
 
+## Quest Zone Information
+| Quest Name                         | Quest Number | Daily |
+|------------------------------------|--------------|-------|
+| Big White Murloc                   | 90015        |    |
+| Manta Ray                    | 90021        | Yes   |
+| Moonglow Cuttlefish          | 90022        | Yes   |
+| Deep Sea Fishing             | 90020        | Yes   |
+| Darn Mice                          | 90005        |    |
+| Harvester on The Fritz             | 90007        |    |
+| Heaven's To Betsy                  | 90024        |   |
+| I swaer its real                   | 90008        |    |
+| Invading Kobold                    | 90010        |    |
+| Keep The Party Going               | 90025        |    |
+| Keep The Party Going.....further   | 90026        |    |
+| My Precious                        | 90009        |    |
+| Skooma                             | 90012        |    |
+| THIS IS MY MINE                    | 90011        |    |
+| Those Imposters                    | 90006        |    |
+| Turn Down For What                 | 90013        |    |
 
 ## Items Zone Information
 | Name                           | ID                           |
