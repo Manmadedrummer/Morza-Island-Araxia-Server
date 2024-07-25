@@ -12,6 +12,9 @@ The sound files come from the bands: Songhammer and Level 70 Elite Tauren Chieft
 
 <br>
 Make a backup of your stuff before running these, don't know if it will overwrite any custom content you may have on your own servers.
+<br>
+
+Copy the files from `Add To Server Side` folder to your Azerothcore server for the maps to work properly. 
 
 <br>
 <br>
