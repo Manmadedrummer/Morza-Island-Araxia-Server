@@ -14,6 +14,7 @@ local LOCATIONS = {
     {name = "Gambling Hall", map = 5000, x = -13808.391, y = 2918.021, z = 0.836},
     {name = "Lighthouse", map = 5000, x = -13539.465, y = 2874.475, z = 2.819},
     {name = "Mage Tower", map = 5000, x = -13920.570, y = 2975.518, z = 6.772},
+    {name = "Metalworks", map = 5000, x = -13852.663, y = 3078.962, z = 6.334},
     {name = "Mines", map = 5000, x = -13864.226, y = 3205.525, z = 18.428},
     {name = "Stables", map = 5000, x = -13865.548, y = 3304.074, z = 59.989}
 }
