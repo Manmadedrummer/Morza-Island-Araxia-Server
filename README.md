@@ -25,7 +25,7 @@ Please consider supporting these artists by purchasing their music.
    - **DBC Table Info:** This is the table you need to run against your world/server database (for Azerothcore it's `acore_world`).
 
 ## Contributing
-This is my first attempt at Lua and some other things. If you notice any areas for improvement or want to contribute, feel free to share your suggestions or submit requests. Just remember to share.
+This is my first attempt at Lua and some other things. If you notice any areas for improvement or want to contribute, feel free to share your suggestions or submit requests. Just remember to share. Alot of these NPC names are a fun little pop culture reference and I hope you have fun with this "mod".
 
 ## Acknowledgements
 Special thanks to the following individuals for their assistance and contributions:
