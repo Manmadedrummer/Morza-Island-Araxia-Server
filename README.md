@@ -1,34 +1,37 @@
-# Morza-Island-Araxia-Server
+# Morza Island - Araxia Server
 
-All the data for Morza Island for Azerothcore.
+Welcome to the repository for Morza Island on the Azerothcore platform. Below you'll find all the essential resources and credits for the contributions to this project.
 
-Special thanks to NotCoffee418 and RStijin for the custom maps.
-- [NotCoffee418's Custom Maps](https://github.com/NotCoffee418/Custom-Maps): Custom Zones for World of Warcraft 3.3.5a by RStijn
-- The maps and the patch for this area can be downloaded from patch-Z (included in this repo).
-The sound files come from the bands: Songhammer and Level 70 Elite Tauren Chieftain. Please go buy something from these bands to support them.
-<br>
+## Custom Maps and Patches
+Special thanks to NotCoffee418 and RStijn for their contributions to custom maps and patches:
+- [NotCoffee418's Custom Maps](https://github.com/NotCoffee418/Custom-Maps) - Custom Zones for World of Warcraft 3.3.5a by RStijn.
+- The maps and patch for this area can be downloaded from patch-Z (included in this repository).
 
-***This is my first attempt at Lua and some other things, if you can see or wanna help make improvements feel free to share/ do request.***
+## Sound Contributions
+The sound files are provided by the following bands:
+- **Songhammer**
+- **Level 70 Elite Tauren Chieftain**
 
-<br>
-<br>
-Make a backup of your stuff before running these, don't know if it will overwrite any custom content you may have on your own servers.
-<br>
+Please consider supporting these artists by purchasing their music.
 
-Copy the files from `Add To Server Side` folder to your Azerothcore server for the maps to work properly. 
+## Installation Instructions
+**Warning:** Make a backup of your existing data before proceeding to ensure that no custom content is overwritten.
 
-<br>
-<br>
-Just run the SQL statements provided, on your favorite database editor (I personally used keira for the creatures and stuff, or you can use DBeaver, or whatever SQL editor you useand you should be good to go.
-<br>
-<br>
+1. **Server Files:**
+   - Copy the files from the `Add To Server Side` folder to your Azerothcore server directory to ensure the maps function correctly.
 
-The 'DBC Table Info' is the table you need to run against your world/server database using a SQL editor (i.e. Heidi SQL, DBeaver, etc.) (For Azerothcore its, acore_world)
+2. **Database Setup:**
+   - Execute the provided SQL statements using your preferred SQL editor (e.g., Keira, DBeaver).
+   - **DBC Table Info:** This is the table you need to run against your world/server database (for Azerothcore it's `acore_world`).
 
+## Contributing
+This is my first attempt at Lua and some other things. If you notice any areas for improvement or want to contribute, feel free to share your suggestions or submit requests.
 
+## Acknowledgements
+Special thanks to the following individuals for their assistance and contributions:
+- Volek, Dast, Ragestriker, Dranos, Cronus, Xonxy, 55Honey, and various members of the Discord community.
+- A heartfelt thank you to Sir. Wiggles for LUA assistance and code contributions, and to Dranos for the minimaps and help with intricate details.
 
-Special thanks to the others that helped me get this off the ground and helping along the way.
-- Volek, dast, Ragestriker, Dranos, Cronus, Xonxy, 55Honey, and the various other peeps on the Discord channels. A special thank you to Sir. Wiggles for helping me figure out some lua and donating some code. A special thanks to Dranos for the minimaps and helping figure out all those fun details.
 
 ### Teleport Commands
 <small>Map ID for custom zones: 5000</small>
