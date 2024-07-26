@@ -25,12 +25,12 @@ Please consider supporting these artists by purchasing their music.
    - **DBC Table Info:** This is the table you need to run against your world/server database (for Azerothcore it's `acore_world`).
 
 ## Contributing
-This is my first attempt at Lua and some other things. If you notice any areas for improvement or want to contribute, feel free to share your suggestions or submit requests.
+This is my first attempt at Lua and some other things. If you notice any areas for improvement or want to contribute, feel free to share your suggestions or submit requests. Just remember to share.
 
 ## Acknowledgements
 Special thanks to the following individuals for their assistance and contributions:
 - Volek, Dast, Ragestriker, Dranos, Cronus, Xonxy, 55Honey, and various members of the Discord community.
-- A heartfelt thank you to Sir. Wiggles for LUA assistance and code contributions, and to Dranos for the minimaps and help with intricate details.
+- A heartfelt thank you to Sir. Wiggles for LUA assistance and code contributions, and to Dranos for the minimaps and help with intricate details on all map details (vmaps, mmaps, Maps).
 
 
 ### Teleport Commands
