@@ -113,7 +113,7 @@ local function StartEscort(creature)
 end
 
 local function OnQuestAccept(event, player, creature, quest)
-    if quest and quest:GetId() == QUEST_ID then
+    if quest:GetId() == QUEST_ID then
         creature:SendUnitSay("Moo ma moo", 0)
         StartEscort(creature)
     end
