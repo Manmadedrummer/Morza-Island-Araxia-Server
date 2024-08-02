@@ -11,7 +11,7 @@ INSERT INTO `creature` (`guid`, `id1`, `id2`, `id3`, `map`, `zoneId`, `areaId`, 
 --EQUIPMENT
 DELETE FROM `creature_equip_template` WHERE (`CreatureID` = 101034);
 INSERT INTO `creature_equip_template` (`CreatureID`, `ID`, `ItemID1`, `ItemID2`, `ItemID3`, `VerifiedBuild`) VALUES
-(101034, 1, 46349, 1292, 0, 0);
+(101034, 1, 0, 1292, 0, 0);
 
 --VENDOR ITEMS
 DELETE FROM `npc_vendor` WHERE (`entry` = 101034);
