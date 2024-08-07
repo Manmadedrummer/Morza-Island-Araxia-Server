@@ -29,7 +29,7 @@ This is my first attempt at Lua and some other things. If you notice any areas f
 
 ## Acknowledgements
 Special thanks to the following individuals for their assistance and contributions:
-- Volek, Dast, Ragestriker, Dranos, Cronus, Xonxy, 55Honey, and various members of the Discord community.
+- Volek, Dast, Ragestriker, Dranos, Cronus, Xonxy, 55Honey, Foe, and various members of the Discord community.
 - A heartfelt thank you to Sir. Wiggles for LUA assistance and code contributions, and to Dranos for the minimaps and help with intricate details on all map details (vmaps, mmaps, Maps).
 
 
