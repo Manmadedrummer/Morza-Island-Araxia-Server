@@ -2,6 +2,8 @@
 
 Welcome to the repository for Morza Island on the Azerothcore platform. Below you'll find all the essential resources and credits for the contributions to this project.
 
+*Note: I have added a "Azerothcore fix by Thiesant" that has SQL changes to suit recent AC build with the creature_model_template
+
 ## Custom Maps and Patches
 Special thanks to NotCoffee418 and RStijn for their contributions to custom maps and patches:
 - [NotCoffee418's Custom Maps](https://github.com/NotCoffee418/Custom-Maps) - Custom Zones for World of Warcraft 3.3.5a by RStijn.
@@ -31,6 +33,7 @@ This is my first attempt at Lua and some other things. If you notice any areas f
 Special thanks to the following individuals for their assistance and contributions:
 - Volek, Dast, Ragestriker, Dranos, Cronus, Xonxy, 55Honey, Foe, and various members of the Discord community.
 - A heartfelt thank you to Sir. Wiggles for LUA assistance and code contributions, and to Dranos for the minimaps and help with intricate details on all map details (vmaps, mmaps, Maps).
+- Thanks to Thiesant for the updated SQL for Azerothcore
 
 
 ### Teleport Commands
